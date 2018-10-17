@@ -1,5 +1,4 @@
-# journals-about-comuter-version-and-pattern-recognition-
-the collections of CV or AI related journals
+# the collections of CV or AI related journals
 
 期刊汇总（仅仅是一部分，检索情况每年都会有变化，投稿之前还是要斟酌）
 INTERNATIONAL JOURNAL OF PATTERN RECOGNITION AND ARTIFICIAL INTELLIGENCE 4区
